@@ -1,0 +1,21 @@
+{
+  "name": "FlamingCat",
+  "vendor": "Touchcreator",
+  "appId": "one.comical.touchcreator.flamingcat",
+  "binaryName": "flamingcat-browser",
+  "version": {
+    "product": "firefox-esr",
+    "version": "128.4.0esr"
+  },
+  "buildOptions": {
+    "windowsUseSymbolicLinks": false
+  },
+  "addons": {},
+  "brands": {},
+  "license": {
+    "ignoredFiles": [
+      ".*\\.json"
+    ],
+    "licenseType": "MPL-2.0"
+  }
+}
