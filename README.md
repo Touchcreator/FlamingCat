@@ -1,6 +1,6 @@
 # FlamingCat 
 
-Note: Due to issues with coding, I have decided ti just switch to Gluon, the new repository is at https://github.com/Touchcreator/FlamingCat-gluon
+Note: Due to issues with coding, I have decided to just switch to Gluon, the new repository is at https://github.com/Touchcreator/FlamingCat-gluon
 
 FlamingCat is a Firefox fork made with Zen Browser' Surfer (Gluon).
 
